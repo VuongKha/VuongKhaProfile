@@ -68,6 +68,7 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 - 🌐 [Trang web cá nhân](https://johndoe.dev)
 
 
+![](https://komarev.com/ghpvc/?username=johnDoe&color=blue&style=flat-square)
 
 
 
