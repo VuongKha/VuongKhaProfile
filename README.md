@@ -2,7 +2,7 @@
 # A Guide to build professional github profile
 
 # Xin chào, tôi là VuongKha! 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello!+I'm+a+Full+Stack+Developer;I+Love+Open+Source!;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello!+I'm+a+Full+Stack+Developer;I+am+interested+in+Nextjs+now!;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+a+Software+Engineer;I+love+coding+and+open+source!)](https://git.io/typing-svg)
 
 Tôi là một lập trình viên chuyên về phát triển web và ứng dụng di động. Tôi đam mê xây dựng các giải pháp công nghệ sáng tạo giúp cải thiện cuộc sống hàng ngày.
